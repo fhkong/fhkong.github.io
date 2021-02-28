@@ -12,16 +12,6 @@
 
 >借鉴了[北岛向南的小屋](https://javef.github.io/)的头像样式
 
-### 效果图
-
->静态图
-
-![主页PNG](./img/home.png)
-
->动态图
-
-![主页GIF](./img/home.gif)
-
 ### 注
 
 - 访问地址：[个人主页](http://i.dmego.me/)
